@@ -1,8 +1,6 @@
 #include <iostream>
 #include <time.h>
 #include <stdlib.h>
-#include <map>
-#include <string>
 #include <cstdlib>
 
 using namespace std;
